@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596319370626",
+    "project_id": "laboratoriska4-ba92a",
+    "storage_bucket": "laboratoriska4-ba92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596319370626:android:f634a61ea22c2a2f25639b",
+        "android_client_info": {
+          "package_name": "com.example.laboratoriska4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596319370626-492esnrml3ruld4vtmp8fmi5c4if1cne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcvKY_pWqt5E5YOYrMHb_0KkIi9aw1-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596319370626-492esnrml3ruld4vtmp8fmi5c4if1cne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
